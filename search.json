@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "Sources\nThe data that I have gathered for this project comes from the City of Chicago’s Violence Reduction Dashboard (https://www.chicago.gov/city/en/sites/vrd/home.html) and the City of Chicago Data Portal (https://data.cityofchicago.org/Public-Safety/Violence-Reduction-Victims-of-Homicides-and-Non-Fa/gumc-mgzr/about_data). While both sources provide data for various types of violent crime, I filtered the data to only include fatal and non-fatal shootings.\nHistorically, gun violence in Chicago has been concentrated in Black and Hispanic neighborhoods. After pulling gun violence data, I also looked at the racial breakdowns of the data and the age breakdown. What I found is that the South and West side neighborhoods experience the highest shooting rates, which are also largely inhabited by Black residents. The second demographic that is disproportionately affected by gun violence in Chicago are those of Latin American backgrounds."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is a website to showcase preliminary findings and analysis of gun violence data in Chicago for 2024. Through the navigation of this website you will different visuals and analysis of this project thus far. A quick summary can be found in the Gun Violence Dashboard (\n\n\nThe following map was the first visualization of the data. It maps gun violence incidents (fatal and non-fatal) in Chicago in 2024. Reducing the time period to a year allows for the most up to date analysis. This allows for the City to focus on the city’s hot spots for further prevention strategy and rapid intervention.\n\n\n\nView larger map"
+  },
+  {
+    "objectID": "index.html#map",
+    "href": "index.html#map",
+    "title": "Home",
+    "section": "",
+    "text": "The following map was the first visualization of the data. It maps gun violence incidents (fatal and non-fatal) in Chicago in 2024. Reducing the time period to a year allows for the most up to date analysis. This allows for the City to focus on the city’s hot spots for further prevention strategy and rapid intervention.\n\n\n\nView larger map"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Karla De Jesus is a student at Hunter College pursuing an advanced graduate certificate in GIS. When she is not learning about GIS applications, she is a full-time bilingual special education teacher in Washington Heights."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nKarla received her bachelors degree from Columbia University where she majored in Urban Studies with a specialization in Urban Education. She also holds a masters degree in teaching from Relay Graduate School of Education. Karla will begin a masters program for urban planning and policy in fall 2025."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nBefore teaching, Karla was a youth organizer in Chicago where she lead campaigns advocating for affordable housing, police reform, and youth justice. Karla hopes to work in municipal governments to lead community development in neighborhoods of color."
+  }
+]
